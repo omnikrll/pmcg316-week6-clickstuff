@@ -1,4 +1,4 @@
-// alert('Hello world');
+alert('Hello world');
 // console.log('hello world');
 
 function swapColorClasses(event) {
